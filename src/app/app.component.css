@@ -1,0 +1,14 @@
+h1 {
+    color: #369;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 250%;
+}
+
+p {
+    width: 200px;
+    background: lightgray;
+    margin: 100px auto;
+    text-align: center;
+    padding: 20px;
+    font-size: 1.5em;
+}
